@@ -1,0 +1,27 @@
+.emailDetail {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.emailDetail__button {
+  margin-left: auto;
+  padding: 0.4rem;
+  border-radius: 1rem;
+  outline: none;
+  background-color: #e54065;
+  color: #f4f5f9;
+  border: none;
+  font-weight: 600;
+}
+
+.emailDetail__container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.emailDetail__body {
+  margin-top: 1rem;
+  text-align: justify;
+}
