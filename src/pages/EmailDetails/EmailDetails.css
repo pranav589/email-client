@@ -13,6 +13,7 @@
   color: #f4f5f9;
   border: none;
   font-weight: 600;
+  cursor: pointer;
 }
 
 .emailDetail__container {
